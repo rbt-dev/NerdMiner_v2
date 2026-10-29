@@ -51,6 +51,8 @@
 #include "wt32.h"
 #elif defined(NERDMINER_S3_GEEK)
 #include "waveshareS3Geek.h"
+#elif defined(WAVESHARE_147)
+#include "waveshare147.h"
 #elif defined(NERDMINER_T_HMI)
 #include "lilygoT_HMI.h"
 #elif defined(SPOTPEAR)

@@ -134,6 +134,9 @@
 #ifdef NERDMINERV2
 #include <User_Setups/Setup206_LilyGo_T_Display_S3.h>
 #endif
+#ifdef WAVESHARE_147
+#include <User_Setups/Setup999_Waveshare147.h>
+#endif
 
 #ifdef SPOTPEAR
 #include <User_Setups/Setup_Spotpear_ST7735.h>
